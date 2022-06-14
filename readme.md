@@ -12,7 +12,7 @@ The idea is to add new kitten details (again very simple data) like name, age to
 open up the terminal and clone the repo. Then please follow the steps below
 
 - ***npm install***
-- ***npm test*** to check the test results and then ***npm run***
+- ***npm test*** to check the test results and then ***npm start***
 
 - You should be able to see a file generated ***database.sqlite***
 - After that you should also able to see the following in the terminal
